@@ -69,9 +69,6 @@ Cette organisation permet une séparation claire entre les jeux, les styles, et 
 ## Choix technologiques
 - React Vite : En prévision d'une navigation et de différentes utilisations de React comme les composants réutilisables
  
- 
- 
-#.# Documentations
 ### Outils
  
     ChatGPT
